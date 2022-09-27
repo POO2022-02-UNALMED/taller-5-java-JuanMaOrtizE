@@ -54,8 +54,8 @@ public class Animal {
 					habitatAnimal + "y mi genero es" + generoAnimal + ", la zona en la que me ubico es " + zonaAnimal + ", en el" + nombreZoo;
 		}
 		else {
-			return "Mi nombre es " + nombreAnimal + ", tengo una de " + edadAnimal +
-					", habito en " + habitatAnimal + "y mi genero es" + generoAnimal;
+			return "Mi nombre es " + nombreAnimal + ", tengo una de edad de " + edadAnimal +
+					", habito en " + habitatAnimal + "y mi genero es " + generoAnimal;
 		}
 	}
 	
